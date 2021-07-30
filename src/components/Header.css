@@ -1,0 +1,25 @@
+.headerContainer{
+    background-color: #f55c47;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    color: #ffff;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.headerContainer h1{
+    padding-bottom: 20px;
+}
+
+.search-input input{
+    position: relative;
+    margin-top: 1px;
+    width: 200px;
+    height: 30px;
+    font-size: large;
+    border: 0 solid;
+    text-align: center;
+    color: white;
+    background-color: inherit;
+}
