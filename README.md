@@ -1,3 +1,26 @@
+# recipe-app-Reactjs
+- This is recipe app built on reactjs and backend is handled by firebase with firebase real-time-db.
+
+
+# website:
+https://react-recipe-app-c0d26.web.app/
+
+
+
+# Features:
+1. Dynamic Search
+2. Add & delete your recipe 
+
+
+# Getting Started
+- run npm install & it will download all  the dependencies
+>npm install
+
+
+- It uses firebase realtime-database for fetching so use your firebase account to connect to the database
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
